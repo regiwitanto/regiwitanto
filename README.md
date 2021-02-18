@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @regiwitanto
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Go, HTML, CSS, Vue.js
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on 'anyone'
 - 📫 How to reach me?
   Twitter: https://twitter.com/regiwitanto
