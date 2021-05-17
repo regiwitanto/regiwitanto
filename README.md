@@ -1,7 +1,7 @@
-Hi, I’m @regiwitanto
+Hi, I’m Regi
 I’m interested in software development
 I’m currently learning Go
-I’m looking to collaborate on 'anyone'
+I’m happy to collaborate on 'anyone'
 
 <!---
 regiwitanto/regiwitanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
